@@ -1,0 +1,35 @@
+body{
+}
+
+
+
+/* pembuka */
+
+.pembukaan{
+    width: 98%;
+    margin: 30px auto;
+    padding: 5px;
+    border-radius: 5px 5px 0 0 ;
+    color: purple;
+}
+
+.pembelajar{
+    width: 97%;
+    margin: -14px auto;
+    font-weight: 500;
+}
+
+@media screen and (max-width:576px){
+
+    .pembukaan{
+        width: 95%;
+        margin: 30px auto;
+        padding: 5px;
+        border-radius: 5px 5px 0 0 ;
+    }
+    
+    .pembelajar{
+        width: 93%;
+    }
+
+}
